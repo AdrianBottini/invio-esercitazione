@@ -1,0 +1,59 @@
+body{
+  background-image: url("background3.jpg");
+}
+
+.container{
+  width: 500px;
+  margin: auto;
+}
+
+.uno{
+  background-color: #7CFC00;
+  width: 700px;
+  padding: 20px;
+  margin: auto;
+}
+
+button{
+  margin: auto;
+  padding: 5px;
+}
+
+.logo{
+ width: 250px;
+}
+
+.logo-text{
+  color: #00FF00
+}
+
+.sseconda{
+  width: 1000px;
+}
+
+span{
+  color: white;
+  font-size: 30px;
+}
+
+p{
+  color: white;
+}
+
+.stato-carica{
+  background-color: #FFA500;
+  width: 300px;
+  padding: 20px;
+}
+
+.stato-carica2{
+  background-color: green;
+  width: 500px;
+  padding: 20px;
+}
+
+.stato-carica3{
+  background-color: red;
+  width: 200px;
+  padding: 20px;
+}
